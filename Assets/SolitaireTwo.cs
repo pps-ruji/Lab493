@@ -73,6 +73,7 @@ public class SolitaireTwo : MonoBehaviour
             newCard.name = card;
 
             yoffset = yoffset + 0.1f;
+            zoffset = zoffset + 0.01f;
         }
     }
 }
